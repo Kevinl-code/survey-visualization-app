@@ -12,7 +12,6 @@ This project visualizes survey data stored in a MySQL database using Streamlit. 
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
-   Run the app:
 3. Run:
    ```bash
    streamlit run app.py
